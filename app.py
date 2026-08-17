@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image("Python_logo.pnd")
+st.image("Python_logo.png")
 
 
 st.title("Especialización Python for Analytics")
