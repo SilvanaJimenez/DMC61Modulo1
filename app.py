@@ -7,7 +7,7 @@ st.title("Especialización Python for Analytics")
 st.sidebar.title("Parámetros")
 st.write("Elaborado por: Silvana Jiménez")
 
-st.image("Python_logo.png",width = 50)
+st.image("Python_logo.png",width = 200)
 
 
 
